@@ -1,4 +1,4 @@
--### Bem vindo ao perfil de Érica
+### Bem vindo ao perfil de Érica
 
 - 👋 *Olá meu nome é Érica Isabel da Silva*
 - 👀 Sou professora do Colégio Neide Bertasso Beraldo e Escola Heitor de Alencar Furtado
