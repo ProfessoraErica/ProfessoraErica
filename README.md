@@ -1,7 +1,7 @@
 ### Bem vindo ao perfil de Érica
 
 - 👋 Olá meu nome é Érica Isabel da Silva
-- 🖤 Estou estudando no Alura
+- 🖤 Estou estudando no [Alura](https://cursos.alura.com.br)
 - 👀 Sou professora do Colégio Neide Bertasso Beraldo e Escola Heitor de Alencar Furtado
 - 💞️ Leciono a disciplina de Pensamento Computacional.
 - ✨ Turmas: 8º ano, 9º ano e 1ª série NEM
