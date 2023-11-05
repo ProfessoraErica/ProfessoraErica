@@ -11,7 +11,7 @@
   erica.isabel.silva@escola.pr.gov.br
 
 
-![ ] (https://media.tenor.com/bPcWmTGt0x0AAAAC/happy-valentines-day-bear.gif)
+![](https://media.tenor.com/bPcWmTGt0x0AAAAC/happy-valentines-day-bear.gif)
    
 
 <!---
