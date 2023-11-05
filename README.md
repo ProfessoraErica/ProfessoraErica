@@ -10,6 +10,10 @@
 
   erica.isabel.silva@escola.pr.gov.br
 
+
+![] (https://media.tenor.com/bPcWmTGt0x0AAAAC/happy-valentines-day-bear.gif)
+   
+
 <!---
 ProfessoraErica/ProfessoraErica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
