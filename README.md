@@ -1,4 +1,4 @@
-### Bem vindo ao perfil de Érica
+### Bem vindo ao perfil de Érica!
 
 - 👋 Olá meu nome é Érica Isabel da Silva
 - 🖤 Estou estudando no [Alura](https://cursos.alura.com.br)
