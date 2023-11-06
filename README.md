@@ -5,8 +5,8 @@
 - 👀 Sou professora do Colégio Neide Bertasso Beraldo e Escola Heitor de Alencar Furtado
 - 💞️ Leciono a disciplina de Pensamento Computacional.
 - ✨ Turmas: 8º ano, 9º ano e 1ª série NEM
-
-  ### Você pode entrar em contaco comigo 📧
+  
+  ### Você pode entrar em contato comigo 📧
 
   erica.isabel.silva@escola.pr.gov.br
 
